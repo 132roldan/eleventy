@@ -9,14 +9,14 @@ title: Elevator
 
 </figure>
 
-wait in a elevator can be very tough.
+<p>wait in a elevator can be very tough.</p>
 
 <figure>
 
 <img src="/img/elevator3.jpg">
 
 </figure>
-You may have a serious back pain.
+<p>You may have a serious back pain.</p>
 
 <figure>
 
@@ -24,4 +24,4 @@ You may have a serious back pain.
 
 </figure>
 
-when the elevator comes your floor you will be lucky if you be able to walk.
+<p>when the elevator comes your floor you will be lucky if you be able to walk.</p>

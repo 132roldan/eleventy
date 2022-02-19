@@ -8,15 +8,15 @@ title: Hungry
 
 </figure>
 
-The hungry is very crazy
-And sometimes the parents just don't care
+<p>The hungry is very crazy
+and sometimes the parents just don't care</p>
 
 <figure>
 
 <img src="/img/fome.jpg">
 
 </figure>
-You can always lick your food while eat
+<p>You can always lick your food while eat</p>
 
 <figure>
 
@@ -24,4 +24,4 @@ You can always lick your food while eat
 
 </figure>
 
-Eat cats usually is the last option
+<p>Eat cats usually is the last option</p>
